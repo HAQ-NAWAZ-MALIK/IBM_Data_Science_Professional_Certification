@@ -1,3 +1,10 @@
+## my credly credentail 
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/IBM_Data_Science_Professional_Certification/assets/86514900/ec88ce9c-285e-4931-b4c9-846e4de25a8e)
+![LINK](https://www.credly.com/badges/fba86c1c-c378-4c7b-9915-e3a8e642b99b/public_url)
+
+
+
 ## 🚀 Applied Data Science Capstone
 This Capstone is the 10th (final) course in IBM Data Science Professional Certificate specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
 
